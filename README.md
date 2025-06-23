@@ -1,2 +1,2 @@
-# kapsule-rt
-A lightweight, sandboxed WebAssembly runtime for executing trust-verified logic kapsules locally — offline, deterministically, and securely.
+# dverse-runtime
+A lightweight, sandboxed WebAssembly runtime for executing trust-verified logic capsules locally — offline, deterministically, and securely.
